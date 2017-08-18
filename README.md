@@ -1,6 +1,6 @@
 # InkademyData
 
-### Splatoon 1 Data
+## Splatoon 1 Data
 
 See the following in the repository:
 * shooterdata.csv
@@ -12,7 +12,7 @@ See the following in the repository:
 
 These are from patch 2.11 of Splatoon 1
 
-### Other #data postings
+## Other data channel postings
 
 Ranked map history: https://splathistory.ink/
 
@@ -54,5 +54,91 @@ In-depth data analysis of Damage Up on Splatlings by @Jordan★ https://docs.goo
 CRB Data by @JEXST - shots after splat bomb via different amounts of ISM and ISS: https://docs.google.com/spreadsheets/d/1HDprt3yZUKM_osCUS1dMLyDzodGbsgtGpyWicu6dHoU/edit?usp=sharing
 
 
+## More data-media channel Postings
 
+* https://www.openrec.tv/user/3RNcake00 - Mirincake (CRB/GRB)
+* https://www.openrec.tv/user/dynamon_live - Dynamon (Dynamo)
+* https://www.openrec.tv/user/Yaritaiji - YariTaiji (Tentatek)
+* https://www.openrec.tv/user/DenchaN - Denchan (Tentatek)
+* https://www.openrec.tv/user/bazz900 - Bazz (Zimi)
+* https://www.openrec.tv/user/sinkokuryuou TsundereMusume/KaNoN (Splatlings)
+* https://www.openrec.tv/user/malutinapo - Napo (CB, CRB)
+* https://www.openrec.tv/user/tarott_3  - Tarott 3 (Chargers)
+* https://www.openrec.tv/user/fps_yugo1 - Yugo (Shooters)
+* http://com.nicovideo.jp/community/co2627686?nicorepo_user_live_broadcast - Yuryo (Chargers)
+* http://com.nicovideo.jp/community/co78094 - Kitkat (Dynamo)
+* https://www.openrec.tv/user/nekulive - Nekura (Chargers)
+* https://www.openrec.tv/user/hanjyou - Hanjyou (Krak-on Roller)
+* https://www.openrec.tv/user/Tori_baado - Toribird (Hydra & other Splatlings)
+* https://www.openrec.tv/user/moyaLIVE - Moyakawa (Tentatek)
+* https://www.openrec.tv/user/kagami - KGM (Jr)
+* https://www.openrec.tv/user/zatto15 - Zatto (Dynamo)
+* https://www.openrec.tv/user/ku-cat - Ku (96 Deco)(edited)
+* https://www.openrec.tv/game/r0mbp8NZl34 - Splatoon game page on openrec; look for the check marks next to peoples' names for the popular (usually good) streamers
 
+Some Japanese search tags for Nicovideo, etc:
+* スプラトゥーン (Splatoon)
+* カンスト (Counter stop i.e. S+99)
+* ガチマ (Ranked match)
+* ガチエリア (SZ)
+* ガチヤグラ (TC)
+* ガチホコバトル (RM)
+* わかばシューター (Jr)
+* スプラシューターコラボ (Tentatek)
+* プライムシューター (Pro)
+* 96ガロンデコ (96 Deco)
+* 52ガロン (52)
+* シャープマーカーネオ (Splash Neo)
+* ボールドマーカー7 (Sploosh 7)
+* N-ZAP83 (basically, just remove the space if you want n-zap stuff)
+* デュアルスイーパー (Dual)
+* ジェットスイーパーカスタム (CJS)
+* L3リールガンD (L3D)
+* H3リールガンチェリー (Cherry)
+* ノヴァブラスターネオ (Luna Neo)
+* ホットブラスターカスタム (Custom Blaster)
+* ロングブラスターカスタム (CRB)
+* ロングブラスターネクロ (Grim)
+* ラピッドブラスター (Rapid)
+* ラピッドブラスターエリート (Rapid Pro)
+* スプラスコープ (Splatterscope)
+* 3Kスコープ (3K Scope)
+* スクイックリン (Squiffer - add α, β, γ for classic, new, fresh)
+* 14式竹筒銃 (Bamboo)
+* スプラローラーコラボ (Krak-on)
+* ダイナモローラー (Dynamo)
+* カーボンローラー (Carbon)
+* ホクサイ (Octobrush)
+* パーマネント・パブロ (Pinkbrush)
+* バケットスロッシャー (Slosher)
+* ヒッセン (Tri-Slosher)
+* スクリュースロッシャー (Machine)
+* バレルスピナーデコ (Heavy Deco)
+* スプラスピナーコラブ (Zink)
+* ハイドラントカスタム (Hydra Custom)
+
+Also, refer to https://cdn.discordapp.com/attachments/233084330979622913/235605229448462337/Toadsilis_Condensed_Japanese_Callout_List_v2.1_copy.rtf for some shortened versions and a callout guide to broaden your searches and get a better understanding of what's actually being said in callouts etc.
+
+https://docs.google.com/spreadsheets/d/1RSCh-2WwpS0r7rq4oYrWIVO_IoqMT0mW_rRz9kwySfc/edit#gid=0 if you don't want to download a .rtf - thanks to @1／2 わんはーふ
+
+Denchan's method to finding your natural sensitivity: https://mobile.twitter.com/DenchaaaN_/status/676742323703689216
+
+The video is in Japanese, but here's a quick explanation of what he is doing:
+* In the testing room pick your target and close your eyes. 
+* If you turn too far past the target lower your sensitivity by 0.5
+* If you turn just short of the target, increase your sensitivity by 0.5
+* Keep doing this until you can consistently hit the target naturally and comfortably for you
+* The point is to find natural turning method for your body. If your eyes are open you might subconsciously correct for your miss. * From here you can play with this sensitivity and practice it more with hand-eye coordination.
+
+https://www.youtube.com/channel/UCEtO8ZJEif5oHtUf-K3nqtA  - Kt Lee (CRB)
+
+https://www.youtube.com/channel/UC_aqpQQpzzTrefOqPK_2Mbw - Rollers
+
+site for making map drawing things: http://squidgoals.com/
+
+https://www.youtube.com/watch?v=pV36kHNfTfw New podcast from Cryptic Spoon, first episode is about the Testfire
+
+Playlist to the games InkTVSplat casted from the Splatoon U.S. Inkling Open
+https://www.youtube.com/playlist?list=PLwGVPqhK80VSu_oVanoJ4QIbhnLkGyaNQ
+
+Basic drills for training aim and why you should want to spend time in the testing area: https://youtu.be/XloXds3GldU
