@@ -3,12 +3,12 @@
 ### Splatoon 1 Data
 
 See the following in the repository:
-*shooterdata.csv
-*rollerdata.csv
-*chargedata.csv
-*explosiondata.csv
-*gatlingdata.csv
-*bigballdata.csv
+* shooterdata.csv
+* rollerdata.csv
+* chargedata.csv
+* explosiondata.csv
+* gatlingdata.csv
+* bigballdata.csv
 
 These are from patch 2.11 of Splatoon 1
 
@@ -39,17 +39,17 @@ Ink Management Charts
 ---
 some magic dynamo #s:
 
-*13 pts (1 main + 1 sub) :ism:: gives 1 extra complete swing from a full tank (all dynamos)
-*24 pts (8 subs) :ism:: gives 2 extra complete swings from a full tank (all dynamos)
-*36 pts (3 mains + 2 subs) :ism:: gives 3 extra complete swings from a full tank (all dynamos)
-*54 pts (3 mains + 8 subs) :ism:: gives 4 extra complete swings from a full tank (all dynamos)
-*15 pts (5 subs) :ssu:: negates swim speed reduction (all dynamos)
-*35 pts (2 mains + 5 subs) :iss:: 2 splat bombs from 1 tank (gold dynamo)
+* 13 pts (1 main + 1 sub) :ism:: gives 1 extra complete swing from a full tank (all dynamos)
+* 24 pts (8 subs) :ism:: gives 2 extra complete swings from a full tank (all dynamos)
+* 36 pts (3 mains + 2 subs) :ism:: gives 3 extra complete swings from a full tank (all dynamos)
+* 54 pts (3 mains + 8 subs) :ism:: gives 4 extra complete swings from a full tank (all dynamos)
+* 15 pts (5 subs) :ssu:: negates swim speed reduction (all dynamos)
+* 35 pts (2 mains + 5 subs) :iss:: 2 splat bombs from 1 tank (gold dynamo)
 
 feats that require combinations of abilities to accomplish:
 
-*13 pts (1 main + 1 sub) :ism: + 6 pts (2 subs) :iss:: 2 complete swings after throwing a splat bomb from a full tank (gold dynamo)
-*13 pts (1 main + 1 sub) :ism: + 18 pts (6 subs) :iss:: 2 complete swings after throwing a sprinkler/seeker from a full tank (vanilla and tempered dynamo)(edited)
+* 13 pts (1 main + 1 sub) :ism: + 6 pts (2 subs) :iss:: 2 complete swings after throwing a splat bomb from a full tank (gold dynamo)
+* 13 pts (1 main + 1 sub) :ism: + 18 pts (6 subs) :iss:: 2 complete swings after throwing a sprinkler/seeker from a full tank (vanilla and tempered dynamo)(edited)
 ---
 In-depth data analysis of Damage Up on Splatlings by @Jordan★ https://docs.google.com/document/d/1u5Ede8HRS5mqY7aPc-GsbIqv-TKuzbGlG5N_gislbj4/edit?usp=sharing
 ---
